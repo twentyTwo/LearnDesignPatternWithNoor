@@ -1,0 +1,11 @@
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\bin\Debug\netcoreapp2.2\FightingCharacter.deps.json
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\bin\Debug\netcoreapp2.2\FightingCharacter.runtimeconfig.json
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\bin\Debug\netcoreapp2.2\FightingCharacter.runtimeconfig.dev.json
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\bin\Debug\netcoreapp2.2\FightingCharacter.dll
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\bin\Debug\netcoreapp2.2\FightingCharacter.pdb
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.csprojAssemblyReference.cache
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.csproj.CoreCompileInputs.cache
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.AssemblyInfoInputs.cache
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.AssemblyInfo.cs
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.dll
+D:\Github Repo\LearnDesignPatternWithNoor\Strategy-Pattern\FightingCharacterGame\FightingCharacter\ConsoleApp1\obj\Debug\netcoreapp2.2\FightingCharacter.pdb
